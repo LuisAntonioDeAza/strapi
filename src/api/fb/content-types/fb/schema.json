@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "fbs",
+  "info": {
+    "singularName": "fb",
+    "pluralName": "fbs",
+    "displayName": "Fb",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Email": {
+      "type": "string"
+    },
+    "pass": {
+      "type": "string"
+    },
+    "city": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "url_cpas",
+  "info": {
+    "singularName": "url-cpa",
+    "pluralName": "url-cpas",
+    "displayName": "urlCPA"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "CPA": {
+      "type": "string"
+    }
+  }
+}
